@@ -11,7 +11,7 @@ Best to put the CLIENT_ID, CLIENT_SECRET, TO_USERNAME, TO_PASSWORD in environmen
 
 Authentication to the originating, "From", account are achieved via oAuth through prompted instructions
 
-python transfer_reddit_subs.py --from_username "AtheistMessiah" --from_refresh_token "add_this_if_you_have_it_from_a_previous_run"
+python transfer_reddit_subs.py --from_username "username_here" --from_refresh_token "add_this_if_you_have_it_from_a_previous_run"
 
 '''
 
